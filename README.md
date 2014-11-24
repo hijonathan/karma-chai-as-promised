@@ -1,0 +1,2 @@
+karma-chai-as-promised
+======================
