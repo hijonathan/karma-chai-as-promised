@@ -1,0 +1,25 @@
+{
+  "name": "karma-chai-as-promised",
+  "version": "0.1.0",
+  "description": "A chai-as-promised adapter for the karma test runner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hijonathan/karma-chai-as-promised.git"
+  },
+  "keywords": [
+    "karma-adapter"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hijonathan/karma-chai-as-promised/issues"
+  },
+  "homepage": "https://github.com/hijonathan/karma-chai-as-promised",
+  "dependencies": {
+    "chai-as-promised": "^4.1.1"
+  }
+}
